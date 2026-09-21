@@ -115,3 +115,36 @@ One caveat: **September in the Jerusalem hills can still be quite hot**, so I'd 
 [1]: https://www.parks.org.il/new/kastel-2/?utm_source=chatgpt.com "המלצת השבוע - אל החורש הים תיכוני-מטיילים זוכרים ומוקירים - רשות הטבע והגנים"
 [2]: https://www.parks.org.il/trip/bayt-itab/?utm_source=chatgpt.com "גן לאומי חורבת בית עיטאב - המלצה למסלול טיול בגן לאומי חורבת בית עיטאב - רשות הטבע והגנים"
 [3]: https://www.parks.org.il/trip/samuel-3/?utm_source=chatgpt.com "טיול סובב נבי סמואל - המלצה למסלול טיול בפארק (גן לאומי) נבי סמואל - רשות הטבע והגנים"
+
+eating:
+
+
+Yes. I checked current listings rather than relying on older restaurant guides. There are several **kosher places quite close to Neve Ilan**, although the selection directly in Neve Ilan itself is limited.
+
+### Very close / Jerusalem Hills
+
+* **רחוב ירושלמי ביער עין חמד** — at Ein Hemed. This is particularly convenient if you're doing the Ein Hemed outing. The listing identifies it as a kosher restaurant and shows current opening hours. ([easy.co.il][1])
+* **Ikar HaAretz** — in Beit Nekofa, a short drive from Neve Ilan. It's more of a deli/food establishment than a formal restaurant, but it is listed as a kosher food business.
+* **לאקי באן מטבח משפחתי Family Kitchen Lucky Bun** — in Ein Rafa. Current business listings identify it as a kosher restaurant. This could be an interesting casual option after visiting the nearby springs/Arab villages.
+* **Naya Restaurant** — in Beit Nekofa. This is an Asian-fusion restaurant and is currently listed with substantial review activity. **I would verify the specific kashrut certification before going**, because "kosher" in business listings doesn't tell us what level of supervision you require.
+
+### Mevaseret Zion — about 10–15 minutes away
+
+This is probably the **most useful area for everyday family meals**.
+
+* **Landwer Café Mevasseret-Zion - Kosher mehadrin** — dairy/café, explicitly identified as **kosher mehadrin**. Good choice for breakfast, lunch or a lighter family meal. The current listing shows it operating Sunday–Thursday and Friday morning/early afternoon. ([easy.co.il][2])
+* **SushiBoX** — in Mevaseret Zion. Current listings identify it as **Kosher LeMehadrin**. ([easy.co.il][1])
+* **Big Apple Pizza** — also in Mevaseret Zion and listed as **Kosher LeMehadrin**. ([easy.co.il][1])
+* **Hashamen Mevaseret Zion** — shawarma/grill, listed as **Kosher LeMehadrin**. ([easy.co.il][1])
+* **Tavshiley Ima** — home-style Israeli food in Mevaseret Zion, listed as **Kosher LeMehadrin, Badatz Beit Yosef**. ([easy.co.il][1])
+
+### One I'd particularly consider
+
+**רחוב ירושלמי ביער עין חמד** is interesting because you can combine the restaurant with **Ein Hemed National Park**, making a very easy family day without having to drive into Jerusalem.
+
+One thing I would **not** do is assume that every place returned by Google/business listings has an acceptable *current* hechsher. The listings establish that the businesses exist; the actual certification can change.
+
+If you tell me **what level of kashrut you require** (e.g. regular Israeli Rabbanut is fine, or you need Mehadrin / specific hashgachot), I can make you a **shortlist of 8–10 verified places within ~20 minutes of Neve Ilan**, including meat/dairy, type of food, and approximate drive time.
+
+[1]: https://easy.co.il/en/list/Restaurants?c2=3728&region=20613056&utm_source=chatgpt.com "Restaurants (Kosher L'mehadrin) - Best in Neve Ilan Area | easy"
+[2]: https://easy.co.il/en/list/Restaurants-and-Fast-Food?c2=19965&region=20613056&utm_source=chatgpt.com "Restaurants and Fast Food (Dairy Kosher) - Best in Neve Ilan Area | easy"
