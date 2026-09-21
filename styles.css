@@ -194,6 +194,15 @@ section { padding: 4.5rem 0; }
 .card-hikes { border-top-color: #3fae7a; }
 
 /* Schedule */
+.meal-times {
+  text-align: center;
+  font-weight: 700;
+  color: #4a5273;
+  margin: -1.4rem 0 2.2rem;
+}
+.meal-times strong { color: var(--night); }
+.meal-note { font-weight: 600; font-size: 0.95rem; color: #6b7290; }
+
 .timeline {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
