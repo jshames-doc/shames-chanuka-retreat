@@ -12,22 +12,13 @@ echo Project: %PROJECT_ID%
 echo Service: %SERVICE_NAME%
 echo Region:  %REGION%
 echo.
-echo [1/3] Verifying Google Cloud login...
-call gcloud config set project %PROJECT_ID%
-
-echo.
-echo [2/3] Building container image with Cloud Build...
+echo Building and deploying to Cloud Run...
 echo This may take a few minutes...
 echo.
 
-call gcloud builds submit -t gcr.io/%PROJECT_ID%/%SERVICE_NAME% .
-
-echo.
-echo [3/3] Deploying to Cloud Run...
-echo.
-
 call gcloud run deploy %SERVICE_NAME% ^
-  --image gcr.io/%PROJECT_ID%/%SERVICE_NAME% ^
+  --source . ^
+  --project %PROJECT_ID% ^
   --platform managed ^
   --region %REGION% ^
   --allow-unauthenticated
