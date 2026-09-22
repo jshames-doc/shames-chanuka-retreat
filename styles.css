@@ -65,6 +65,49 @@ h1, h2, h3 { font-family: 'Fraunces', serif; }
 
 .hero-cta { margin-top: 2.2rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
 
+/* Countdown */
+.countdown {
+  margin-top: 1.8rem;
+  display: flex;
+  gap: 0.8rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.count-unit {
+  min-width: 74px;
+  padding: 0.7rem 0.6rem;
+  border-radius: 14px;
+  background: rgba(253, 246, 233, 0.08);
+  border: 1px solid rgba(244, 201, 93, 0.35);
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.count-num {
+  font-family: 'Fraunces', serif;
+  font-weight: 900;
+  font-size: 1.8rem;
+  line-height: 1;
+  color: var(--gold);
+  font-variant-numeric: tabular-nums;
+}
+.count-label {
+  margin-top: 0.35rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #cdd8ff;
+}
+.countdown-past {
+  margin-top: 1.8rem;
+  font-weight: 800;
+  font-size: 1.15rem;
+  color: var(--gold);
+}
+
 .btn {
   display: inline-block;
   padding: 0.85rem 2rem;
@@ -332,4 +375,6 @@ footer a:hover { text-decoration: underline; }
   .location-grid { grid-template-columns: 1fr; }
   .hero { padding: 3.5rem 1.2rem 5.5rem; }
   .dreidels span { display: none; }
+  .count-unit { min-width: 62px; padding: 0.55rem 0.5rem; }
+  .count-num { font-size: 1.5rem; }
 }
